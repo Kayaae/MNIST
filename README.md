@@ -2,7 +2,7 @@
 
 This is an image classification learning project done using Jupyter Notebook. The purpose of the project is to solve the MNIST handwritten digits problem.
 
-The main focuses of this learning project were:
+The main focuses of this learning project are:
 - image classification 
 - model evaluation
 - hyperparameter tuning
